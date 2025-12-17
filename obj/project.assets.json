@@ -151,9 +151,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tenece/Console/Console.csproj",
-      "projectName": "Console",
-      "projectPath": "/Users/tenece/Console/Console.csproj",
+      "projectUniqueName": "/Users/tenece/Console/WeatherServiceApi.csproj",
+      "projectName": "WeatherServiceApi",
+      "projectPath": "/Users/tenece/Console/WeatherServiceApi.csproj",
       "packagesPath": "/Users/tenece/.nuget/packages/",
       "outputPath": "/Users/tenece/Console/obj/",
       "projectStyle": "PackageReference",
