@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UB0IVKRnpxA=",
+  "dgSpecHash": "3PGOyQVbwHY=",
   "success": true,
-  "projectFilePath": "/Users/tenece/Console/Console.csproj",
+  "projectFilePath": "/Users/tenece/Console/WeatherServiceApi.csproj",
   "expectedPackageFiles": [
     "/Users/tenece/.nuget/packages/jsonconverter.abstractions/0.7.2/jsonconverter.abstractions.0.7.2.nupkg.sha512",
     "/Users/tenece/.nuget/packages/jsonconverter.newtonsoft.json/0.7.2/jsonconverter.newtonsoft.json.0.7.2.nupkg.sha512",
