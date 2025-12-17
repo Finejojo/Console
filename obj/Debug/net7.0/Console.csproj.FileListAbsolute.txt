@@ -1,0 +1,14 @@
+/Users/tenece/Console/bin/Debug/net7.0/Console
+/Users/tenece/Console/bin/Debug/net7.0/Console.deps.json
+/Users/tenece/Console/bin/Debug/net7.0/Console.runtimeconfig.json
+/Users/tenece/Console/bin/Debug/net7.0/Console.dll
+/Users/tenece/Console/bin/Debug/net7.0/Console.pdb
+/Users/tenece/Console/obj/Debug/net7.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tenece/Console/obj/Debug/net7.0/Console.AssemblyInfoInputs.cache
+/Users/tenece/Console/obj/Debug/net7.0/Console.AssemblyInfo.cs
+/Users/tenece/Console/obj/Debug/net7.0/Console.csproj.CoreCompileInputs.cache
+/Users/tenece/Console/obj/Debug/net7.0/Console.dll
+/Users/tenece/Console/obj/Debug/net7.0/refint/Console.dll
+/Users/tenece/Console/obj/Debug/net7.0/Console.pdb
+/Users/tenece/Console/obj/Debug/net7.0/Console.genruntimeconfig.cache
+/Users/tenece/Console/obj/Debug/net7.0/ref/Console.dll
